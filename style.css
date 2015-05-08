@@ -1,0 +1,65 @@
+table {
+  margin-top: 6%;
+  margin-left: 18%;
+  margin-right: 30%;
+}
+
+.addit {
+  margin-top: -5.5%;
+  position:absolute;
+  width: 10px;
+}
+
+.clip {
+  border-style: double;
+  border-width: 5px;
+  padding: 15px;
+  float: left;
+}
+
+.headline {
+  margin-top: 30px;
+  float: left;
+  font-family: GazetaSansSerif;
+}
+
+.content {
+  display: inline-block;
+  font-family: FranklinGothicBookC;
+}
+
+.info {
+  width: 150%;
+  float: left;
+  /*border-style: solid;
+  border-width: 2 px;*/
+}
+
+#form2 {
+  display: inline-block;
+  width: 200px;
+  font-size: 10pt;
+}
+
+.myButton {
+  background-color:#fafafa;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+  display:inline-block;
+  cursor:pointer;
+  color:#777777;
+  font-family:Arial;
+  font-size:15px;
+  font-weight: 600;
+  padding:7px 10px;
+  text-decoration:none;
+  text-shadow:0px 0px 0px #000000;
+}
+.myButton:hover {
+  background-color:#FFFFFF;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
